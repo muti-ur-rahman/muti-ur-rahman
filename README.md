@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">💻 I’m passionate about JavaScript, React.js, and full-stack development.<br>🌱 Currently, I’m diving deep into React.js, Vite, and advanced CSS.<br>🤝 I’m open to collaborating on web development projects using JavaScript and React.js.<br>📫 Feel free to reach out to me on this platform.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I absolutely love debugging—each bug is an opportunity to improve my coding skills!</h2>
+<h2 align="left">💻 I’m passionate about JavaScript, React.js, and full-stack development.<br>🌱 Currently, I’m diving deep into React.js, Vite, and advanced CSS.<br>🤝 I’m open to collaborating on web development projects using JavaScript and React.js.<br>📫 Feel free to contact me on this platform.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love debugging—each bug is an opportunity to improve my coding skills!</h2>
 
 ###
 
