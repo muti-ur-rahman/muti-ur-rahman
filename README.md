@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">My name is Muti-u-Rahman and I'm a Front-end Web developer!</h2>
+<h3 align="left">Muti-u-Rahman, A Front-end Web developer💻 here!</h2>
 
 ###
 
-<h2 align="left">💻 I’m passionate about JavaScript, React.js, and full-stack development.<br>🌱 Currently, I’m diving deep into React.js, Vite, and advanced CSS.<br>🤝 I’m open to collaborating on web development projects using JavaScript and React.js.<br>📫 Feel free to contact me on this platform.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love debugging—each bug is an opportunity to improve my coding skills!</h2>
+<h4 align="left">💻 I’m passionate about JavaScript, React.js, and full-stack development.<br>🌱 Currently, I’m diving deep into React.js, Vite, and advanced CSS.<br>🤝 I’m open to collaborating on web development projects using JavaScript and React.js.<br>📫 Feel free to contact me on this platform.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love debugging—each bug is an opportunity to improve my coding skills!</h2>
 
 ###
 
