@@ -14,8 +14,7 @@
 I love debugging—it’s like solving a puzzle where every bug is a step toward becoming a better developer!  
 
 💻 **Tools I Use:**  
-<h3> JavaScript | TypeScript | React | Next.js | Tailwind CSS | Node.js | Express | Mongo DB | Git | HTML5 | CSS  <h3>
-
+<h3> JavaScript | TypeScript | React | Next.js | Tailwind CSS | Node.js | Express | Mongo DB | Git | HTML5 | CSS<3>  
 🤝 **Let’s Collaborate:**  
 I’m always open to working on exciting **web development projects** using **JavaScript** and **React.js**. Let’s build something amazing together!  
 
