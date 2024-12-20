@@ -1,6 +1,6 @@
 Hey there! 👋
 
-<h4>I’m **Muti-ur-Rahman**, a passionate **React.js Front-End Developer 💻** with over 3 years of expertise in **frontend development**.</h4>
+<h4> Muti-ur-Rahman here, a passionate React.js Front-End Developer 💻 with specialized expertise in crafting dynamic and responsive frontend applications.</h4>
 🌟 What I Do:
 
 Build responsive web applications with a focus on UI/UX design and frontend performance.
