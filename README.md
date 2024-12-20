@@ -10,14 +10,15 @@ I’m **Muti-ur-Rahman**, a passionate **Front-End Web Developer 💻** with ove
 🌱 **Currently Exploring:**  
 - **React.js**, **Vite**, and **advanced CSS** to push the boundaries of responsive design and performance.  
 
-🤝 **Let’s Collaborate:**  
-I’m always open to working on exciting **web development projects** using **JavaScript** and **React.js**. Let’s build something amazing together!  
-
 ⚡ **Fun Fact:**  
 I love debugging—it’s like solving a puzzle where every bug is a step toward becoming a better developer!  
 
 💻 **Tools I Use:**  
-JavaScript | TypeScript | React | Next.js | Storybook | Node.js | Git | HTML5 | CSS  
+JavaScript | TypeScript | React | Next.js | Tailwind CSS | Node.js | Express | Mongo DB | Git | HTML5 | CSS  
+
+🤝 **Let’s Collaborate:**  
+I’m always open to working on exciting **web development projects** using **JavaScript** and **React.js**. Let’s build something amazing together!  
+
 
 📫 **Get in Touch:**  
 Feel free to reach out and connect here! I’d love to discuss opportunities, share ideas, or just chat about code. 😄  
