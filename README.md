@@ -1,6 +1,6 @@
 
 **Hey there! 👋**  
-I’m **Muti-ur-Rahman**, a passionate **Front-End Web Developer 💻** with over 3 years of experience in **frontend development**.  
+<h4>I’m **Muti-ur-Rahman**, a passionate **Front-End Web Developer 💻** with over 3 years of experience in **frontend development**. <h4> 
 
 🌟 **What I Do:**  
 - Craft **responsive web applications** with a strong focus on **UI/UX design** and **frontend performance**.  
@@ -14,7 +14,7 @@ I’m **Muti-ur-Rahman**, a passionate **Front-End Web Developer 💻** with ove
 I love debugging—it’s like solving a puzzle where every bug is a step toward becoming a better developer!  
 
 💻 **Tools I Use:**  
-JavaScript | TypeScript | React | Next.js | Tailwind CSS | Node.js | Express | Mongo DB | Git | HTML5 | CSS  
+<h3> JavaScript | TypeScript | React | Next.js | Tailwind CSS | Node.js | Express | Mongo DB | Git | HTML5 | CSS  <h3>
 
 🤝 **Let’s Collaborate:**  
 I’m always open to working on exciting **web development projects** using **JavaScript** and **React.js**. Let’s build something amazing together!  
