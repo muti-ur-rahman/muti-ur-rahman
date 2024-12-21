@@ -1,11 +1,8 @@
 Hey there! 👋
-
 <h4> Muti-ur-Rahman here, a passionate React.js Front-End Developer 💻 with specialized expertise in crafting dynamic and responsive frontend applications.</h4>
 
 
-
 🌟 What I Do:
-
 Build responsive web applications with a focus on UI/UX design and frontend performance.
 Mastery in React.js, JavaScript (ES6+), Next.js, and cutting-edge CSS frameworks like Tailwind CSS and Material-UI.
 Develop high-performance single-page applications (SPAs) with expertise in React hooks, state management, and modern tools like Vite.
