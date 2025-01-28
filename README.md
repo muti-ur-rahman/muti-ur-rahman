@@ -1,6 +1,7 @@
 Hey there! 👋
-Hey there! 👋
-<h4> Muti-ur-Rahman here, a passionate React.js Front-End Developer 💻 with specialized expertise in crafting dynamic and responsive frontend applications.</h4>
+<h4>  I’m Muti-ur-Rahman, a Software Engineer and passionate React.js Front-End Developer 💻 with expertise in building dynamic and responsive web applications.
+</h4>
+
 
 
 🌟 What I Do:
@@ -10,8 +11,10 @@ Develop high-performance single-page applications (SPAs) with expertise in React
 
 
 
+
 🌱 Currently Exploring:
 Building robust, scalable applications using JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Node.js, Express, and MongoDB, with a focus on Git version control, HTML5, and advanced CSS for performance and responsiveness.
+
 
 
 
@@ -20,8 +23,10 @@ Debugging is my passion—it’s like solving intricate puzzles that sharpen my 
 
 
 
+
 💻 Tools I Use:
 <h3>JavaScript | TypeScript | React.js | Next.js | Tailwind CSS | Node.js | Express | MongoDB | Git | Docker | Github Actions | HTML5 | CSS</h3>
+
 
 
 
@@ -36,12 +41,3 @@ Always happy to connect! 😄
 
 
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> </div>
-
-
-
-
-
-
-
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> </div>
-
