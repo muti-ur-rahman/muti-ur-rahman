@@ -25,7 +25,12 @@ Debugging is my passion—it’s like solving intricate puzzles that sharpen my 
 
 
 📫 Get in Touch:
-Reach out to discuss exciting opportunities, share ideas, or just chat about coding. Always happy to connect! 😄
+mailto: mutirahman515@gmail.com
+Reach out to discuss exciting opportunities, share ideas, or just chat about coding. 
+Always happy to connect! 😄
+
+
+
 
 
 
