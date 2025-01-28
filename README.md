@@ -4,7 +4,7 @@ Hey there! 👋
 
 
 
-🌟 What I Do:
+<h2>🌟 What I Do:</h2>
 Build responsive web applications with a focus on UI/UX design and frontend performance.
 Mastery in React.js, JavaScript (ES6+), Next.js, and cutting-edge CSS frameworks like Tailwind CSS and Material-UI.
 Develop high-performance single-page applications (SPAs) with expertise in React hooks, state management, and modern tools like Vite.
