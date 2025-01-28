@@ -11,26 +11,25 @@ Develop high-performance single-page applications (SPAs) with expertise in React
 
 
 
-
-🌱 Currently Exploring:
+<h2>🌱 Currently Exploring:</h2>
 Building robust, scalable applications using JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Node.js, Express, and MongoDB, with a focus on Git version control, HTML5, and advanced CSS for performance and responsiveness.
 
 
 
 
-⚡ Fun Fact:
+<h2>⚡ Fun Fact:</h2>
 Debugging is my passion—it’s like solving intricate puzzles that sharpen my skills as a developer.
 
 
 
 
-💻 Tools I Use:
+<h2>💻 Tools I Use:</h2>
 <h3>JavaScript | TypeScript | React.js | Next.js | Tailwind CSS | Node.js | Express | MongoDB | Git | Docker | Github Actions | HTML5 | CSS</h3>
 
 
 
 
-📫 Get in Touch:
+<h2>📫 Get in Touch:</h2>
 mailto: mutirahman515@gmail.com
 Reach out to discuss exciting opportunities, share ideas, or just chat about coding. 
 Always happy to connect! 😄
