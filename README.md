@@ -10,7 +10,7 @@ Develop high-performance single-page applications (SPAs) with expertise in React
 
 
 🌱 Currently Exploring:
-Pushing the boundaries of frontend development with React.js, Vite, and advanced CSS techniques for enhanced performance and scalability.
+Building robust, scalable applications using JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Node.js, Express, and MongoDB, with a focus on Git version control, HTML5, and advanced CSS for performance and responsiveness.
 
 
 
@@ -20,7 +20,7 @@ Debugging is my passion—it’s like solving intricate puzzles that sharpen my 
 
 
 💻 Tools I Use:
-<h3>JavaScript | TypeScript | React.js | Next.js | Tailwind CSS | Node.js | Express | MongoDB | Git | HTML5 | CSS</h3>
+<h3>JavaScript | TypeScript | React.js | Next.js | Tailwind CSS | Node.js | Express | MongoDB | Git | Docker | Github Actions | HTML5 | CSS</h3>
 
 
 
