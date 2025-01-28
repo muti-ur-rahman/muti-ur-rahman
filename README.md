@@ -1,4 +1,5 @@
 Hey there! 👋
+Hey there! 👋
 <h4> Muti-ur-Rahman here, a passionate React.js Front-End Developer 💻 with specialized expertise in crafting dynamic and responsive frontend applications.</h4>
 
 
@@ -28,6 +29,14 @@ Debugging is my passion—it’s like solving intricate puzzles that sharpen my 
 mailto: mutirahman515@gmail.com
 Reach out to discuss exciting opportunities, share ideas, or just chat about coding. 
 Always happy to connect! 😄
+
+
+
+
+
+
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /> </div>
+
 
 
 
